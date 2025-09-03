@@ -1,12 +1,30 @@
-# React + Vite
+# 🗓️ 30-Day Productivity Tracking 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web app that gamifies productivity by organizing tasks like a fitness program.  
+Instead of *Push / Pull / Legs*, the program rotates through three modes of work:
 
-Currently, two official plugins are available:
+- 🎯 **Focus** → deep work (studying, coding, writing)  
+- 💬 **Connect** → communication (emails, meetings, networking)  
+- ✅ **Organize** → routines (planning, digital cleanup, errands)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Each day has **Morning** and **Afternoon** sessions, with tasks broken down into rounds and durations, just like a workout plan.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+- 📅 **30-day rotating plan** (Focus → Connect → Organize)  
+- 🌞 **Morning & Afternoon sessions** with structured tasks  
+- 🔒 **Locked/unlocked day view** for progress tracking  
+- 🪟 **Modal pop-ups** with task descriptions and quick facts  
+- 🎨 **Responsive UI** styled with CSS Grid & Flexbox  
+- ⚡ Built with **React + Vite** for fast development  
+
+---
+
+## 🛠️ Tech Stack  
+- **React (JSX)** → component-based UI  
+- **Vite** → fast build tool  
+- **CSS3 (Grid/Flexbox)** → responsive layout  
+- **Font Awesome** → icons for Focus / Connect / Organize  
+
+
