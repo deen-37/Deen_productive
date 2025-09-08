@@ -30,7 +30,7 @@ export default function Hero() {
                 </li>
             </ul>
             <h3> The productivity program structure as the <b>FFSS</b> and follows the following steps</h3>
-            <p><b><i> Foundation &rarr; Focus &rarr; System &rarr; Sustain</i></b></p>
+            <p><b><i> Focus &rarr; Connect &rarr; Organize &rarr; Focus</i></b></p>
 
             <p> Complete all the productivity checklist below and track your productivity along the way ✅</p>
         </>
